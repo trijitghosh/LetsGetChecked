@@ -1,0 +1,10 @@
+account_name=hc72013
+region=eu-west-2.aws
+user=TRIJITGHOSH
+password=Australia@89
+db=letsgetchecked
+schema=public
+warehouse=my_warehouse
+stage=my_stage
+source=D:/Project/sql-server-samples/samples/databases/adventure-works/data-warehouse-install-script
+host=jdbc:snowflake://hc72013.eu-west-2.aws.snowflakecomputing.com/
