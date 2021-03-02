@@ -1,7 +1,7 @@
-account_name=hc72013
+account_name=hc*****
 region=eu-west-2.aws
 user=TRIJITGHOSH
-password=Australia@89
+password=********
 db=letsgetchecked
 schema=public
 warehouse=my_warehouse
