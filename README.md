@@ -23,4 +23,6 @@ The pipe itself would keep track of the historical files, making sure duplicate 
 
 ## Queries
 
-**QUERIES.sql** - This file contains some queries which uses the fact and dimension tables 
+**QUERIES.sql** - This file contains some queries which uses the fact and dimension tables;
+I made some queries using some fact and dimension tables. Since I did not have a BI tool like power BI 
+or tableau, the queries in this file would give a idea of some numbers in the fact table.
